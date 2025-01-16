@@ -6617,6 +6617,9 @@ tooltipBrand__68214 .tooltipPointer_f7411c {
 .theme-dark .closeButton__8177f+.keybind_a619c1 {
 	color: #A5A5A5;
 }
+.closeButton__8177f {
+	margin-right: 1rem;
+}
 
 /* Settings Radio Toggles */
 .item_b7fb7e {
