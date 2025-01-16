@@ -120,10 +120,10 @@
 	--background-modifier-active: rgba(0,0,0,0.2);
 	--background-modifier-selected: rgba(0,0,0,0.3);
 
-	--background-mentioned: rgba(250, 61, 4, 0.05);				/* rgba(250, 166, 26, 0.05) */
-	--background-mentioned-hover: rgba(250, 61, 4, 0.08);			/* rgba(250, 166, 26, 0.08) */
-	--background-mentioned-border: rgb(250, 61, 4, 1);			/* rgba(250, 166, 26, 1) */
-	--background-mentioned-toolbar: rgb(36, 20, 6);
+	--background-mentioned: rgba(232, 80, 34, 0.05);				/* rgba(250, 166, 26, 0.05) */
+	--background-mentioned-hover: rgba(220, 89, 49, 0.08);			/* rgba(250, 166, 26, 0.08) */
+	--background-mentioned-border: rgb(240, 60, 0);			/* rgba(250, 166, 26, 1) */
+	--background-mentioned-toolbar: rgb(26, 18, 14);
 
 	--text-normal: #DCDDDE;											/* #DCDDDE */
 	--text-muted: #777777;											/* #72767D */
